@@ -1,5 +1,9 @@
 body {
-  background-color: aliceblue;
+     background-image: url("https://img.freepik.com/free-vector/floral-with-cherry-blossoms-full-bloom-pink_8130-710.jpg"); /* Replace with your image path */
+      background-size: cover;
+      background-repeat: no-repeat;
+      
+  background-color:;
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -15,12 +19,15 @@ html{
 
 #myCanvas {
   border: 1px solid black;
+  background-image: url("https://t4.ftcdn.net/jpg/09/57/40/87/360_F_957408752_twC5bzAzcs7UMQN6o2UdBPWXei36Pxxx.jpg"); /* Replace with your image path */
+      background-size: cover;
+      background-repeat: no-repeat;
 }
 
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: green;
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
